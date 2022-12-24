@@ -1,3 +1,3 @@
-module github.com/ii64/go-rlottie
+module github.com/icyrogue/go-rlottie
 
 go 1.19
