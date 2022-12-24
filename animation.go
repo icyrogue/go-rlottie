@@ -1,6 +1,7 @@
 package rlottie
 
 /*
+#cgo CFLAGS: -I./inc
 #include <stdlib.h>
 #include <rlottie_capi.h>
 
